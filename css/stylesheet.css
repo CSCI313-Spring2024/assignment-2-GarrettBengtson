@@ -1,0 +1,70 @@
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+body{
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+}
+
+#bioPara{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#aspirationPara{
+    font-style: italic;
+    font-weight: lighter;
+}
+
+table{
+    width: 90%;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+th{
+    background-color: rgb(97, 235, 235);
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    text-align: center;
+}
+
+td{
+    background-color: lightcyan;
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+}
+
+ul{
+    font-weight: bold;
+}
+
+ol{
+    font-weight: bolder;
+}
+
+#website-container{
+    background-color: rgb(255, 187, 198);
+}
+
+#books-container{
+    background-color: rgb(255, 173, 187);
+}
+
+#hobbies-container{
+    background-color: rgb(255, 158, 174);
+}
